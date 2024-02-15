@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Proben",
+        "Description": "A Street Food",
+        "price": 5.00,
+        "Date": "February 5, 2024",
+        "expired": "February 10,2024"
+    },
+    {
+        "name": "Fish Ball",
+        "Description": "A Street Food",
+        "price": 5.00,
+        "Date": "February 5, 2024",
+        "expired": "February 10,2024"
+    },
+    {
+        "name": "Tempura",
+        "Description": "A Street Food",
+        "price": 20.00,
+        "Date": "February 5, 2024",
+        "expired": "February 10,2024"
+    }
+]
